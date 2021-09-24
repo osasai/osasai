@@ -18,7 +18,7 @@
   - [シェフ向けのSNS「Foodion」]https://foodion.net/
   - OBOG訪問アプリ「茶会人訪問」（サービス廃止）
 
-- CRM関連も、Marketo、Salesforce、Karte、Sendinblueなど、各種設計から運用までこなします。
+- CRM関連は、Marketo、Salesforce、Karte、Sendinblue、Kintoneなど、各種設計から運用までこなします。
 
 - 😄 現在は、Hakaliのボードメンバーもしております。リクルートとクックビズで、2回のIPOを経験しており、会社としての良いときも悪いときも経験してきましたので、成長ベンチャーでの組織アドバイスなども、可能です。
 
