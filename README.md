@@ -1,5 +1,4 @@
-<table border=0>
-  <tr border=0>
+<table style=”border:none;”>
   <td>
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=osasai&count_private=true&show_icons=true&theme=tokyonight" />
@@ -8,7 +7,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osasai&theme=tokyonight" />
 </a>
   </td>
-  </tr>
   </table>
 
 ### osasaiについて
