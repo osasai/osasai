@@ -1,4 +1,4 @@
-<table>
+<table border=0>
   <td>
 <p><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=osasai&count_private=true&show_icons=true&theme=tokyonight" />
@@ -8,7 +8,7 @@
 </a>
   </td>
   </table>
-</p>
+
 ### osasaiについて
 - 🔭 株式会社Hakaliを共同創業し、現在はプロダクトマーケティングを行いつつも、DX人材・エンジニア特化の人材紹介エージェントを行っております。
 
