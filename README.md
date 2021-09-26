@@ -1,5 +1,12 @@
 ### osasaiについて
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=osasai&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osasai" />
+</a>
+
 - 🔭 株式会社Hakaliを共同創業し、現在はプロダクトマーケティングを行いつつも、DX人材・エンジニア特化の人材紹介エージェントを行っております。
 
 - 👯 人材エージェントですが、自分自身もコードを書きますし、エンジニアへのリスペクトを大事に支援したいと思っています。コーチング資格取得者ですので、単なる求人紹介に終わらないような、自己実現につながるような転職支援を心懸けています。よろしければ、ぜひご支援させてくださいませ。
